@@ -1,0 +1,148 @@
+.item1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.item2{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.item3{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  margin-bottom: 10px;
+}
+
+.item01{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+}
+
+.item02{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+}
+
+.item03{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: left;
+  margin-bottom: 10px;
+}
+
+.item_1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: right;
+}
+
+.item_2{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: right;
+}
+
+.item_3{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  float: right;
+  margin-bottom: 10px;
+}
+
+.item_01{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin-top: 10px;
+}
+
+.item_02{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  float: left;
+}
+
+.item_03{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  clear: both;
+  margin-bottom: 10px;
+}
+
+/* 例題 */
+.float{
+  max-width: 500px;
+  width: 100%;
+  margin: 60px auto;
+}
+
+.float__img{
+  width: 400px;
+  float: left;
+}
+
+img{
+  width: 100%;
+}
+
+/* 練習問題 */
+.practice{
+  max-width: 760px;
+  width: 80%;
+  margin: 60px auto;
+}
+
+.title{
+  font-size: 24px;
+  margin-bottom: 20px;  
+}
+
+.practice__img{
+  width: 400px;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img{
+  width: 100%;
+}
+
+/* 自作 */
+.cat{
+  max-width: 600px;
+  width: 100%;
+  margin: 100px auto;
+}
+
+.title01{
+  font-size: 28px;
+  margin-bottom: 40px;
+}
+
+.subtitle{
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.cat_relax{
+  width: 60%;
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
